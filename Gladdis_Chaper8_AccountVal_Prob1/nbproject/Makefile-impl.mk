@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CPPTemplate
+PROJECTNAME=Gladdis_Chaper8_AccountVal_Prob1
 
 # Active Configuration
 DEFAULTCONF=Debug
